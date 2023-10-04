@@ -1,4 +1,4 @@
-import * as THREE from "three";
+import * as THREE from "./modules/three.js";
 import { scene, setupScene } from "./modules/scene.js";
 import { createPaintings } from "./modules/paintings.js";
 import { createWalls } from "./modules/walls.js";
